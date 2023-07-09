@@ -1,0 +1,11 @@
+.task-name {
+    margin-right: 5px;
+}
+
+.successful {
+    color: green;
+}
+
+.error {
+    color: red;
+}
